@@ -83,4 +83,9 @@
     </dependencies>
   </dependencyManagement>
 
+  <scm>
+    <developerConnection>scm:git:https://github.com/leozin/json-flattener.git</developerConnection>
+    <connection>scm:git:https://github.com/leozin/json-flattener.git</connection>
+    <tag>HEAD</tag>
+  </scm>
 </project>
