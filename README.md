@@ -36,7 +36,7 @@ If you want to include as a library of your application. Clone the project and r
 Just download the dist folder [HERE](cli/dist) and, in shell, create an alias to the download binaries, for example:
 - Download the dist folder as zip
 - Unpack and cd into it
-- `alias jf=$PWD/bin/json-flattener`
+- `alias jf=$PWD/bin/json-flattener-1.0`
 
 #### Usage
 Assuming the last steps above were followed, you need now to stream the data into the app.
